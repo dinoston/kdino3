@@ -23,6 +23,12 @@
       "email": "sorialgi@gmail.com",
       "password": "$2a$10$isDNUCao6/ID9fGzP0/ZLuKkqS.OUFj09Qhx9kW0LieGDMlDegSAC",
       "displayName": "sorialgi"
+    },
+    {
+      "id": "SlklX3ZR",
+      "email": "dinoston@gmail.com",
+      "password": "$2a$10$trAZV3xrcM17vdRDl/QQdesJVNs42s8YBnbfOBmGSfZDGSRKASLqe",
+      "displayName": "dinoston"
     }
   ],
   "topics": [
@@ -55,6 +61,12 @@
       "title": "안녕하세요",
       "description": "안녕하세요. 게시판입니다. \r\n감사합니다.",
       "user_id": "yk46lCbd"
+    },
+    {
+      "id": "RNM6ichF",
+      "title": "Test",
+      "description": "Test is...",
+      "user_id": "SlklX3ZR"
     }
   ]
 }
