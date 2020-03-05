@@ -1,0 +1,94 @@
+
+h1 {
+  font-size: 30px;
+  color:white;
+  padding:0;
+  height:60px;
+  font-family: Arial;
+  text-align:left;
+  text-decoration:none;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+}
+
+header{
+  border-bottom: 1px solid gray;
+  padding: 0;
+  background-color: #00FFFF;
+  margin:0;
+  border: 10px;
+}
+footer{
+  border-top: 1px solid gray;
+  text-align: center;
+  padding: 20px;
+}
+.content{
+  display: flex;
+}
+.content main{
+  padding: 20px;
+}
+.content nav{
+  border-right: 1px solid gray;
+}
+.content aside{
+  border-left: 1px solid gray;
+}
+nav{
+  padding: 20px;
+  flex-basis:350px;
+  flex-shrink: 0;
+}
+main{
+  padding: 20px;
+  flex-basis:600px;
+}
+aside{
+  flex-basis:50px;
+  flex-shrink: 0;
+}
+.register{
+  text-align: right;
+  padding: 10px;
+  background-color: gray;
+  margin: 0;
+  border-bottom:1px black;
+  color: white;
+  text-decoration:none;
+
+}
+.button-link{
+  width: 100px;
+  height:40px;
+  color: black;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 40px;
+  cursor: pointer;
+  text-decoration:none;
+  font-size: 32px;
+  border-right:10px solid gray;
+  border-radius: 4px;
+  padding: 1px;
+
+}
+.korea_button-link{
+  width: 100px;
+  height:40px;
+  color: black;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 40px;
+  cursor: pointer;
+  text-decoration:none;
+  font-size: 25px;
+  border-right:10px solid gray;
+  border-radius: 4px;
+}
+.login{
+  cursor: pointer;
+}

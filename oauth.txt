@@ -1,0 +1,6 @@
+287500741353-g4s8gvehktuqg14dd3e95gmjcvcbcgrm.apps.googleusercontent.com
+
+e9K1b-IAx15Dc-Qzb7F5HRL2
+
+
+localhost:3000/callback
